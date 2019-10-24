@@ -1,0 +1,30 @@
+body {
+  background: rgb(245, 245, 245);
+  color: green;
+  font-size: 25px;
+}
+
+h1 {
+  color: red;
+  font-weight: lighter;
+  font-size: 20px;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  color: pink;
+  font-weight: lighter;
+  font-size: 16px;
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 13px;
+}
+
+img {
+  width: 400px;
+  height: 200px;
+  object-fit: cover;
+}
+
